@@ -1,2 +1,5 @@
-cd src
-"D:\third_party\node\bin\node.exe" script.js
+@echo off
+
+cd output
+"../packages/node/bin/node.exe" test.js
+cd..
