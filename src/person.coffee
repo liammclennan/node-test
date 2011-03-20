@@ -27,3 +27,5 @@ class CoffeePerson
 		
 felix = new CoffeePerson "Felix Hoenikker", 63
 console.log felix.toString()
+
+# added another comment
